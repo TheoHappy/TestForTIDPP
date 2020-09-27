@@ -6,6 +6,6 @@ public class TestISD {
         System.out.println(stream4.distinct().peek(System.out::println).count());
         // TODO
         // FIXME ADD some code here:
-        //  Add class to Streams Package
+        //  Add class to Streams Packagee
     }
 }
